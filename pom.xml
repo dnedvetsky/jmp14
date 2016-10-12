@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>jmp14</groupId>
-    <artifactId>jmp14</artifactId>
-    <version>jmp14</version>
+    <groupId>jmp14-deployed</groupId>
+    <artifactId>jmp14-deployed</artifactId>
+    <version>jmp14-deployed</version>
     <packaging>pom</packaging>
 
     <modules>
